@@ -1,0 +1,25 @@
+{
+  "name": "copy-of-streaming-site-web-5",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/core": "^6.3.1",
+    "hls.js": "^1.5.8",
+    "@aws-sdk/client-ses": "^3.879.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

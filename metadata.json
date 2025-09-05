@@ -1,0 +1,7 @@
+{
+  "name": "Copy of STREAMING SITE WEB 5",
+  "description": "A professional-grade live stream monitoring application for video and audio feeds using HLS, featuring a drag-and-drop custom grid.",
+  "requestFramePermissions": [],
+  "prompt": "Create a professional-looking live stream monitoring application. The main feature is a customizable grid of video and audio players that can be rearranged using drag-and-drop. Include a control panel to add new streams, change the grid size, and manage configurations.",
+  "author": "Hicham Ibnoukhaldoun"
+}
